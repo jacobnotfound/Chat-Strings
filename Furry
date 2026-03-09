@@ -1,4 +1,5 @@
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("re", "System")
 task.wait(0.1)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("char me 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000009613447103", "System")
+task.wait(0.1)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("name me Furry", "System")
