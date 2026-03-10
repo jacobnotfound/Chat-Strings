@@ -1,0 +1,7 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("music 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007692277716", "System")
+task.wait(0.1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("setmessage \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 90000000000000000990 has joined the server.", "System")
+task.wait(0.1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("fix", "System")
+task.wait(3.5)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("clr", "System")
