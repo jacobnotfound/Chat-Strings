@@ -1,0 +1,3 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("tp nonadmins me", "System")
+task.wait(0.1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("reset nonadmins", "System")
