@@ -1,7 +1,5 @@
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("respawn all", "System")
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("fix", "System")
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("fix", "System")
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("fix", "System")
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("clr", "System")
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("clr", "System")
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("clr", "System")
