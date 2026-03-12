@@ -1,5 +1,7 @@
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("setmessage \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 90000000000000000990 is going to be afk for a few hours.", "System")
+task.wait(0.1)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("setgrav me -9e9", "System")
+task.wait(0.1)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("punish me", "System")
 task.wait(3)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer ("clr", "System")
